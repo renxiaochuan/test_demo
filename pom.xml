@@ -6,9 +6,13 @@
 
     <groupId>com.rxc.study</groupId>
     <artifactId>test_demo</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <build>
 
     </build>
+    <modules>
+        <module>dataviz-for-cas</module>
+    </modules>
 
 </project>
